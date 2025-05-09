@@ -18,17 +18,8 @@ Employee ID, Age, Gender, Department, Job Role
 Salary, Years of Experience, Education Level
 Recruitment Source, Hiring Date, Performance Ratings
 Attrition Status (Yes/No), Reason for Attrition
-5. Dashboard Screenshots (Optional but Recommended)
-Include 2-3 key screenshots showcasing different sections of the dashboard.
-6. How to Use the Dashboard
-Open the Power BI (.pbix) file in Power BI Desktop.
-Refresh data sources if needed.
-Use filters and slicers to analyze trends based on specific attributes.
-7. Key Findings & Business Impact
+5. Key Findings & Business Impact
 Identified departments with the highest attrition rates, leading to targeted retention strategies.
 Found a correlation between salary satisfaction and attrition, helping HR optimize compensation policies.
 Helped reduce hiring costs by determining the most effective recruitment sources.
-8. Future Improvements
-Integrate real-time HR data for live analytics.
-Implement predictive modeling to forecast attrition rates.
-Add interactive storytelling to make insights more accessible.
+ 
